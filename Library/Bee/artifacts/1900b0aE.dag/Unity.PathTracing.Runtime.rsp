@@ -42,6 +42,7 @@
 -define:PLATFORM_ARCH_64
 -define:UNITY_64
 -define:UNITY_INCLUDE_TESTS
+-define:UNITY_ENABLE_CLOUD_SERVICES_ENGINE_DIAGNOSTICS_MANAGED
 -define:ENABLE_AR
 -define:ENABLE_AUDIO
 -define:ENABLE_AUDIO_SCRIPTABLE_PIPELINE
@@ -507,7 +508,7 @@
 /debug:portable
 /nologo
 /RuntimeMetadataVersion:v4.0.30319
--ruleset:"C:/Users/Baram/UnityProjects/My project/Library/ImmutablePackage.ruleset"
+-ruleset:"C:/Users/Baram/UnityProjects/ItbCompetition/Library/ImmutablePackage.ruleset"
 /nowarn:0169
 /nowarn:0649
 /nowarn:0282
